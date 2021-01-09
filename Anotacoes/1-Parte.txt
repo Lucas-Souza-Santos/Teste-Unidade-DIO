@@ -1,0 +1,31 @@
+-> Implementando sua stack de testes unitários e integrandos 
+em um projeto .NET de Crowdfunding 
+
+Você acha realmente importante testar seu código ?
+    Como humanos somos falhos, por isso é necessário testar.
+
+Testar faz parte do desenvolvimento de software! 
+(ou pelo menos deveria)
+
+Se a gente não testa 
+    + bugs 
+    - qualidade
+    + atrasos
+    - confiança 
+    + desmotivação 
+    + turnover 
+    + prejuízos 
+    + implicações legais
+
+Regra 10 de myers 
+    A cada etapa que passsa do seu desenvolvimento para você 
+    corrigir um erro, você vai multiplicando por 10.
+
+
+
+
+
+
+
+
+
